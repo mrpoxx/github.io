@@ -7,6 +7,7 @@
         h1 { color: yellow; font-size: 40em; }
         .blurb { margin: 20px 0; }
         .blurb { color: white; }
+        .bio { margin: 20px; }
         .bio { font-style: italic; }
         .bio { color: white; }
         .footer { display: flex; justify-content: space-around; }
