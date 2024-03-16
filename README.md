@@ -26,15 +26,12 @@
 𝓢𝓲𝓷𝓬𝓮 𝓖𝓓 𝓲𝓼 𝓷𝓸𝔀 𝓸𝓯𝓯𝓲𝓬𝓲𝓪𝓵𝓵𝔂 𝓸𝓵𝓭 𝓮𝓷𝓸𝓾𝓰𝓱 𝓽𝓸 𝓭𝓻𝓲𝓷𝓴 𝔀𝓮 𝔀𝓲𝓵𝓵 𝓫𝓮 𝓼𝓵𝓸𝔀𝓵𝔂 𝓫𝓾𝓽 𝓼𝓾𝓻𝓮𝓵𝔂 𝓹𝓾𝓫𝓵𝓲𝓼𝓱𝓲𝓷𝓰 𝓼𝓸𝓶𝓮 𝓸𝓯 𝓸𝓾𝓻 𝓾𝓷𝓻𝓮𝓵𝓮𝓪𝓼𝓮𝓭 𝓫𝓪𝓬𝓴 𝓬𝓪𝓽𝓪𝓵𝓸𝓰𝓾𝓮, 𝓪𝓼 𝔀𝓮𝓵𝓵 𝓪𝓼 𝓸𝓾𝓻 𝓱𝓲𝓰𝓱𝓵𝔂 𝓪𝓷𝓽𝓲𝓬𝓲𝓹𝓪𝓽𝓮𝓭 𝓷𝓮𝔁𝓽 𝓪𝓵𝓫𝓾𝓶.
 
 𝓡𝓮𝓶𝓮𝓶𝓫𝓮𝓻 𝓯𝓻𝓲𝓮𝓷𝓭𝓼- 𝓓𝓘𝓨 𝓸𝓻 𝓓𝓘𝓔. & 𝔀𝓱𝓮𝓷 𝔂𝓸𝓾 𝓭𝓸 𝓭𝓲𝓮, 𝓬𝓸𝓷𝓼𝓲𝓭𝓮𝓻 𝓓𝓘𝓨. ♫♪♩·.¸¸.· Cock cock cok
-
-
-
 </p>
     <div class="slideshow">
         <!-- Your slideshow code here -->
     </div>
     <div class="footer">
-        <a href="link1"><img src="[icon1.png](https://files.catbox.moe/nbnl9c.png)" alt="Icon 1"></a>
+        <a href="link1"><img src="[https://files.catbox.moe/nbnl9c.png]" alt="Icon 1"></a>
         <a href="link2"><img src="icon2.png" alt="Icon 2"></a>
         <a href="link3"><img src="icon3.png" alt="Icon 3"></a>
         <a href="link4"><img src="icon4.png" alt="Icon 4"></a>
