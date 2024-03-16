@@ -4,7 +4,7 @@
     <title>Gang Date</title>
     <style>
         body { font-family: Arial, sans-serif; }
-        h1 { color: yellow; font-size: 3em; }
+        h1 { color: yellow; font-size: 10em; }
         .blurb { margin: 20px 0; }
         .bio { font-style: italic; }
         .footer { display: flex; justify-content: space-around; }
