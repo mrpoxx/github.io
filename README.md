@@ -30,7 +30,7 @@
         <!-- Your slideshow code here -->
     </div>
     <div class="footer">
-        <a href="link1"><img src="icon1.png" alt="Icon 1"></a>
+        <a href="link1"><img src="[icon1.png](https://files.catbox.moe/nbnl9c.png)" alt="Icon 1"></a>
         <a href="link2"><img src="icon2.png" alt="Icon 2"></a>
         <a href="link3"><img src="icon3.png" alt="Icon 3"></a>
         <a href="link4"><img src="icon4.png" alt="Icon 4"></a>
