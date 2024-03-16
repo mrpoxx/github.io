@@ -4,8 +4,9 @@
     <style>
         body { font-family: Arial, sans-serif; }
         body { background-color: black; }
-        h1 { color: yellow; font-size: 20em; }
+        h1 { color: yellow; font-size: 40em; }
         .blurb { margin: 20px 0; }
+        .blurb { color: white; }
         .bio { font-style: italic; }
         .bio { color: white; }
         .footer { display: flex; justify-content: space-around; }
