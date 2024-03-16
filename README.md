@@ -38,7 +38,7 @@
         <input type="email" id="email" name="email"><br>
         <input type="submit" value="Submit">
     </form>
-    <p>© 2024 Gang Date ℗ SWERM etc</p>
+    <p>© 2024 Gang Date ℗ SWERMy etc</p>
 </body>
 </html>
 
