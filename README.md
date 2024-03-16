@@ -18,7 +18,7 @@
     <h1>Gang Date</h1>
     <img src="https://files.catbox.moe/q08qv9.png" alt="Band Image">
     <p class="blurb">Holy crap... Suck on this godaddy you punk ass hoe.</p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/-EeSFhSqg_0?list=OLAK5uy_mD2RNTBuYCnkuZ-bbmGmqQR5oRBTSs03E" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/-EeSFhSqg_0?list=OLAK5uy_mD2RNTBuYCnkuZ-bbmGmqQR5oRBTSs03E" frameborder="20" allowfullscreen></iframe>
     <p class="bio">·.¸¸.·♩♪♫ 𝓖𝓪𝓷𝓰 𝓓𝓪𝓽𝓮'𝓼 𝓯𝓲𝓻𝓼𝓽 𝓲𝓽𝓮𝓻𝓪𝓽𝓲𝓸𝓷 𝔀𝓪𝓼 𝓮𝓼𝓽𝓪𝓫𝓵𝓲𝓼𝓱𝓮𝓭 '03 𝓲𝓷 𝓛𝓐 𝓫𝔂 𝓪 𝓽𝓮𝓮𝓷𝓪𝓰𝓮 𝓹𝓾𝓷𝓴 𝓻𝓸𝓬𝓴𝓮𝓻 𝓪𝓻𝓶𝓮𝓭 𝔀𝓲𝓽𝓱 𝓪 $10 𝓹𝓵𝓪𝓼𝓽𝓲𝓬 𝓬𝓸𝓶𝓹𝓾𝓽𝓮𝓻 𝓶𝓲𝓬𝓻𝓸𝓹𝓱𝓸𝓷𝓮, 𝓪 𝓯𝓮𝔀 𝓲𝓷𝓼𝓽𝓻𝓾𝓶𝓮𝓷𝓽𝓼 𝓸𝓯 𝓭𝓾𝓫𝓲𝓸𝓾𝓼 𝓺𝓾𝓪𝓵𝓲𝓽𝔂, & 𝓼𝓸𝓶𝓮 𝓪𝓷𝓬𝓲𝓮𝓷𝓽 𝓪𝓾𝓭𝓲𝓸 𝓻𝓮𝓬𝓸𝓻𝓭𝓲𝓷𝓰 𝓯𝓻𝓮𝓮𝔀𝓪𝓻𝓮. 𝓟𝓸𝔀𝓮𝓻𝓮𝓭 𝓫𝔂 𝓶𝓪𝓷𝓲𝓪 & 𝓽𝓱𝓮 𝓷𝓮𝓮𝓭 𝓯𝓸𝓻 𝓾𝓷𝓻𝓮𝓼𝓽𝓻𝓲𝓬𝓽𝓮𝓭 𝓼𝓮𝓵𝓯 𝓮𝔁𝓹𝓻𝓮𝓼𝓼𝓲𝓸𝓷, 𝓖𝓓 𝔀𝓪𝓼 𝓫𝓸𝓻𝓷.
 
 𝓐𝓯𝓽𝓮𝓻 𝓼𝓮𝓿𝓮𝓻𝓪𝓵 𝓻𝓮𝓵𝓮𝓪𝓼𝓮𝓼, 𝓪 𝓸𝓷𝓮-𝓸𝓯𝓯 𝓵𝓲𝓿𝓮 𝓹𝓮𝓻𝓯𝓸𝓻𝓶𝓪𝓷𝓬𝓮, & 𝓬𝔂𝓬𝓵𝓲𝓷𝓰 𝓽𝓱𝓻𝓸𝓾𝓰𝓱 𝓪 𝓱𝓪𝓷𝓭𝓯𝓾𝓵 𝓸𝓯 𝓶𝓮𝓶𝓫𝓮𝓻𝓼- 𝓣𝓱𝓮 𝓖𝓪𝓷𝓰'𝓼 𝓵𝓸𝓷𝓰𝓮𝓼𝓽 𝓼𝓮𝓻𝓿𝓲𝓷𝓰 𝓶𝓮𝓶𝓫𝓮𝓻 𝓽𝓸 𝓓𝓪𝓽𝓮 𝔀𝓪𝓼 𝓯𝓸𝓾𝓷𝓭, 𝓬𝓸𝓶𝓹𝓵𝓮𝓽𝓲𝓷𝓰 𝓽𝓱𝓮 𝓵𝓲𝓷𝓮 𝓾𝓹 & 𝓰𝓪𝓵𝓿𝓪𝓷𝓲𝔃𝓲𝓷𝓰 𝓸𝓾𝓻 𝓯𝓪𝓽𝓮 𝓪𝓼 𝓽𝓱𝓮 𝓼𝓮𝓬𝓻𝓮𝓽 𝓶𝓾𝓼𝓲𝓬𝓪𝓵 𝓬𝓸𝓵𝓵𝓮𝓬𝓽𝓲𝓿𝓮 𝔂𝓸𝓾'𝓿𝓮 𝓯𝓸𝓾𝓷𝓭 𝔂𝓸𝓾𝓻𝓼𝓮𝓵𝓯 𝓵𝓲𝓼𝓽𝓮𝓷𝓲𝓷𝓰 𝓽𝓸 𝓽𝓸𝓭𝓪𝔂.
