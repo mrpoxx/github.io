@@ -3,6 +3,7 @@
     <title>Gang Date</title>
     <style>
         body { font-family: Arial, sans-serif; }
+        body { background-color: black; }
         h1 { color: yellow; font-size: 10em; }
         .blurb { margin: 20px 0; }
         .bio { font-style: italic; }
